@@ -1,8 +1,3 @@
 test123..asasa
-<<<<<<< HEAD
-6767778989
-sahdsadsaoijo
-=======
 1234567890
 sahdsadsaoijo
->>>>>>> 7ca095bc748662906a1603faa88fa784fac864f6
